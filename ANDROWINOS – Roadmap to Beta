@@ -1,0 +1,19 @@
+### Phase 1 – Foundations
+- Learn AOSP build system
+- Successful clean AOSP build
+- Repository structure finalized
+
+### Phase 2 – Core Experiments
+- Study Android system services
+- Research Winlator / Wine internals
+- Test Windows app execution on Android
+
+### Phase 3 – Integration
+- Integrate compatibility layer into system image
+- Prototype launcher for Android + Windows apps
+- Basic performance optimizations
+
+### Phase 4 – Beta
+- First bootable ANDROWINOS image
+- Android apps + one Windows app working
+- Public Beta release for developers
