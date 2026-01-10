@@ -1,0 +1,75 @@
+===========================================
+ANDROWINOS – Combined License Information
+===========================================
+
+Copyright (c) 2026 ANDROWINOS
+Licensed under the Apache License, Version 2.0 (the “License”);
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+“AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+either express or implied. See the License for the specific
+language governing permissions and limitations under the License.
+
+===========================================
+Third‑Party and Submodule Licenses
+===========================================
+
+This project includes or may include third‑party software,
+each governed by its own open source license.  You must retain
+the original copyright and license notices of those components.
+
+The following components and licenses are included:
+
+1. Winlator
+   Copyright (c) Authors of Winlator
+   Licensed under the MIT License
+   https://github.com/brunodev85/winlator
+
+   MIT License excerpt:
+   -----------------------------------------
+   Permission is hereby granted, free of charge, to any person
+   obtaining a copy of this software and associated documentation
+   files (the “Software”), to deal in the Software without
+   restriction, including without limitation the rights to use,
+   copy, modify, merge, publish, distribute, sublicense,
+   and/or sell copies of the Software, and to permit persons to
+   whom the Software is furnished to do so, subject to the
+   following conditions:
+   The above copyright notice and this permission notice shall
+   be included in all copies or substantial portions of the
+   Software.
+   -----------------------------------------
+
+2. Wine / Proton Related
+   Copyright (c) Wine Developers and Contributors
+   Licensed under MIT License (or compatible)
+   https://www.winehq.org/
+
+   (Retain original Wine/Brewing license notices)
+
+3. Box86 / Box64 / DXVK / Vulkan Wrappers
+   Copyright (c) Authors of each respective project
+   Licensed under MIT/BSD/Permissive licenses
+   (Retain each original license and copyright file)
+
+===========================================
+Attribution Requirements
+===========================================
+
+You agree to:
+• Include this combined LICENSE file in any distribution.
+• Preserve all third‑party copyright/permission notices
+  in their original files or folders.
+• Maintain a NOTICE file listing all third‑party dependencies
+  and their respective licenses.
+• If distributing binaries, include all relevant notices
+  in documentation or legal text.
+
+===========================================
+END OF LICENSE
+===========================================
